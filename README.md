@@ -30,5 +30,8 @@ There are two methods of installation; The first method utilises XAMPP Control P
 - If you are unable to connect to the internet, change the DNS servers accordingly 
 	- The DNS server for the virtual machine should be **your main computer's internet connection's default gateway**  
 ![Image2](images/2.png)
-
+- **To access the Handbook web application using another virtual machine:**
+	1. Ensure all virtual machines being used are connected to the NAT Network 'DevSecOpsHandbook'
+	2. Add 6 different entries to the /etc/hosts file (or it's equivalent for non Debian linux distributions) as shown in the picture below (devsechandbook.com, labs.devsechandbook.com, challenges.devsechandbook.com):  
+	![Image3](images/3.png)
  
