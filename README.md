@@ -5,7 +5,8 @@ This handbook is a web application designed to teach users about **SQL Injection
 There are two methods of installation; The first method utilises XAMPP Control Panel while the second method is a "plug-and-play" Virtual Machine.
 
 ### Method one: XAMPP Control Panel
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-pdpMZr-t9s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+[Watch the installation guide here:](https://www.youtube.com/watch?v=-pdpMZr-t9s)  
+<a href="https://www.youtube.com/watch?v=-pdpMZr-t9s"><img src = "images/4.png" /></a>  
 1. Download XAMPP Control Panel.
 2. [Download all necessary files here.](https://github.com/TragicLoveStory/DevSecOpsHandbook/releases/download/v0.1.0/Handbook_Files.zip)
 3. Move the folders 'majorProject' and 'hands-on' to your XAMPP's **htdocs folder**.
@@ -20,7 +21,8 @@ There are two methods of installation; The first method utilises XAMPP Control P
 9. Lastly, import all the data from the .sql files provided. Import the files 'handbook.sql', 'handson.sql', and 'challenges.sq' accordingly based on their respective databases.
 
 ### Method two: Virtual Machine
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Civ9bpe-zKc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+[Watch the installation guide here:](https://www.youtube.com/watch?v=Civ9bpe-zKc)  
+<a href="https://www.youtube.com/watch?v=Civ9bpe-zKc"><img src = "images/5.png" /></a>   
 - [Download the virtual machine here (Only for TP students and staff!)](temp)
 - Import the VM using Oracle Virtualbox.
 	- **Ensure 'Mac Address Policy' is set to 'Include only NAT network adapter MAC addresses'**
