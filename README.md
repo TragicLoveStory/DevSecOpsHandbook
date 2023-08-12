@@ -22,13 +22,13 @@ There are two methods of installation; The first method utilises XAMPP Control P
 - Import the VM using Oracle Virtualbox.
 	- **Ensure 'Mac Address Policy' is set to 'Include only NAT network adapter MAC addresses'**
 - Create a NAT Network called 'DevSecOpsHandbook'. Set the IPv4-Prefix to '192.168.56.0/24' and enable DHCP.
-[!Image1](images/1.png)
+![Image1](images/1.png)
 - Start up the machine! **Password for the Ubuntu Virtual Machine is 'handbook'**. To access the web application, the website URLs are:
 	- http://www.devsechandbook.com
 	- http://labs.devsechandbook.com 
 	- http://challenges.devsechandbook.com
 - If you are unable to connect to the internet, change the DNS servers accordingly 
 	- The DNS server for the virtual machine should be **your main computer's internet connection's default gateway**
-[!Image2](images/2.png)
+![Image2](images/2.png)
 
  
