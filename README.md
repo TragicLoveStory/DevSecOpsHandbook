@@ -23,7 +23,7 @@ There are two methods of installation; The first method utilises XAMPP Control P
 ### Method two: Virtual Machine
 [Watch the installation guide here:](https://www.youtube.com/watch?v=Civ9bpe-zKc)  
 <a href="https://www.youtube.com/watch?v=Civ9bpe-zKc"><img src = "images/5.png" /></a>   
-- [Download the virtual machine here (Only for TP students and staff!)](https://studenttpedu-my.sharepoint.com/:u:/g/personal/2101170e_student_tp_edu_sg/EfgsE6bRqBxJqO8-mAMIKBYByxdZ3mGVSSZ_Je7H-ouqtA?e=Dbygq7)
+- [Download the virtual machine here (**Currently only for TP students and staff!**)](https://studenttpedu-my.sharepoint.com/:u:/g/personal/2101170e_student_tp_edu_sg/EfgsE6bRqBxJqO8-mAMIKBYByxdZ3mGVSSZ_Je7H-ouqtA?e=Dbygq7)
 - Import the VM using Oracle Virtualbox.
 	- **Ensure 'Mac Address Policy' is set to 'Include only NAT network adapter MAC addresses'**
 - Create a NAT Network called 'DevSecOpsHandbook'. Set the IPv4-Prefix to '192.168.56.0/24' and enable DHCP.  
